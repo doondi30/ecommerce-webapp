@@ -1,7 +1,5 @@
 # 🛒 E-Commerce Website 💻
 
-A fully responsive and dynamic e-commerce website built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. This project showcases essential shopping features and a modern UI optimized for all devices.
-
 ## 📖 Table of Contents
 
 - [🎯 Overview](#-overview)
@@ -37,19 +35,14 @@ This e-commerce web application provides users with a seamless shopping experien
 
 ## Desktop View
 
-- **Home Page**
-  <img width="1880" height="867" alt="image" src="https://github.com/user-attachments/assets/3a8a7c47-f82d-42ba-ae55-799a22e56672" />
-- **Products Page**
-<img width="1656" height="974" alt="image" src="https://github.com/user-attachments/assets/e75011a5-2500-4d41-9fde-899cead8afec" />
-- **Cart Page**
-<img width="1901" height="778" alt="image" src="https://github.com/user-attachments/assets/bbd99154-28ee-4e7a-9e32-b252cf8d11b7" />
-- **Check Out**
-<img width="1705" height="915" alt="image" src="https://github.com/user-attachments/assets/901f6b1c-34cc-40a0-92f8-a7deae858b3c" />
-- **Order Confirmation**
-<img width="1723" height="775" alt="image" src="https://github.com/user-attachments/assets/313f4666-4d2d-4720-8793-0e6612d11d54" />
+- **Home Page** <img width="1880" height="867" alt="image" src="https://github.com/user-attachments/assets/3a8a7c47-f82d-42ba-ae55-799a22e56672" />
+- **Products Page** <img width="1656" height="974" alt="image" src="https://github.com/user-attachments/assets/e75011a5-2500-4d41-9fde-899cead8afec" />
+- **Cart Page** <img width="1901" height="778" alt="image" src="https://github.com/user-attachments/assets/bbd99154-28ee-4e7a-9e32-b252cf8d11b7" />
+- **Check Out** <img width="1705" height="915" alt="image" src="https://github.com/user-attachments/assets/901f6b1c-34cc-40a0-92f8-a7deae858b3c" />
+- **Order Confirmation** <img width="1723" height="775" alt="image" src="https://github.com/user-attachments/assets/313f4666-4d2d-4720-8793-0e6612d11d54" />
 
 
-![Mobile View](link-to-mobile-screenshot)
+## Mobile View
 
 
 ## 🛠️ Built With
